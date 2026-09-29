@@ -5,6 +5,21 @@
 ## Tecnología de Base de Datos I
 
 ------------------------------------------------------------------------
+# Repositorio GitHub
+
+Este repositorio contiene todos los archivos necesarios para reproducir y verificar la migración de la base de datos employees desde MariaDB hacia PostgreSQL.
+
+Incluye:
+
+- Documentación del proceso.
+- Scripts de migración.
+- Scripts de verificación.
+- Modelo físico.
+- Backup PostgreSQL.
+
+Repositorio:
+
+https://github.com/Dorian1251/EntregableFinal_TBDI
 
 # 1. Portada
 
